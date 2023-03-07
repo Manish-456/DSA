@@ -17,3 +17,5 @@ return -1;
 let numList = [2, 4, 6, 8, 10, 12];
 let searchResult = binarySearch(numList, 10);
 print(searchResult);
+
+// Big-O => O(logn) => input size reduced by half
