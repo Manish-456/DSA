@@ -29,3 +29,5 @@ console.log(arr);
 
 // function execution
 // let numberToInsert = NIT
+
+// Big-O => O(n^2) because we are using nested loop
